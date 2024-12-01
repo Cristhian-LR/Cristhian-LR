@@ -41,3 +41,8 @@ I am a student of Information Technology Engineering, currently in my third seme
 [![](https://github-readme-stats.vercel.app/api?username=Cristhian-LR&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Cristhian-LR48&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Cristhian-LR/Cristhian-LR/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
