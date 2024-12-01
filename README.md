@@ -9,6 +9,7 @@ I am a student of Information Technology Engineering, currently in my third seme
 
 ***A quick review***
 - 🌱 I’m currently learning Engineering in Information Technologies and Telecommunications
+- ⚡ I have programmed small projects using Python knowledge such as object-oriented programming, polymorphism and design patterns.
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="15186@ulsachihuahua.edu.mx">15186@ulsachihuahua.edu.mx</a>
 
@@ -35,14 +36,9 @@ I am a student of Information Technology Engineering, currently in my third seme
 </span>
 
 
-  <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Cristhian-LR&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Cristhian-LR48&theme=material-palenight)](https://github.com/Elanza-48)
 </div>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Cristhian-LR/Cristhian-LR/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
